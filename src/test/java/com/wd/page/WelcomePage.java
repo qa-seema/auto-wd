@@ -85,6 +85,10 @@ public class WelcomePage {
 		
 		services.clickOnElement(xpath2); // Using XPATH
 	}
+	
+	
+	
+	
 
 }
 
